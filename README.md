@@ -7,4 +7,4 @@ SYNOPSIS:
 The main purpose of this bot is to create an audio test room on your mumble server so that users can test their audio before joining a main channel. 
 
 USAGE:
-Before running, fill in your details for server, nick, and channel. 
+Before running, fill in your details for server, nick, and channel. Then $ python3 mimic-bot.py. 
